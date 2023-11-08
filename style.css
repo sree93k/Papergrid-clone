@@ -472,4 +472,8 @@ padding-left: 20px;
         top: -39px;
         
     }
+    .menu-list{
+        margin-top: -30;
+        position: relative;
+    }
 }
